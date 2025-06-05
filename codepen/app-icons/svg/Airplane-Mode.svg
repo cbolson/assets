@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Airplane-Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1010 1010" enable-background="new 0 0 1010 1010" xml:space="preserve">
+<path id="airplane-mode-back" fill="#FF9400" d="M1010,783.4561C1010,908.0625,908.7705,1010,785.0664,1010H224.9502
+	C101.2124,1010,0,908.0625,0,783.4561V226.5435C0,101.9458,101.2124,0,224.9502,0h560.1162C908.7705,0,1010,101.9458,1010,226.5435
+	V783.4561z"/>
+<g id="airplane-mode-airplane-mode">
+	<path fill="#FFFFFF" d="M775.4395,452.7583H565.9502L356.979,208.9751h-52.2329l121.8955,243.7832H252.5044l-69.6587-87.0669
+		v87.0669v104.4839v87.0742l69.6587-87.0742h174.1372l-121.8955,243.791h52.2329l191.5542-243.791h226.9063
+		c28.5449,0,51.7109-23.1494,51.7109-51.711v-1.0458C827.1504,475.916,803.9844,452.7583,775.4395,452.7583z"/>
+</g>
+</svg>

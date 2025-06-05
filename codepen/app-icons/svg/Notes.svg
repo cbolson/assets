@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Notes" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1010 1010" enable-background="new 0 0 1010 1010" xml:space="preserve">
+<linearGradient id="notes-label_1_" gradientUnits="userSpaceOnUse" x1="505" y1="1010" x2="505" y2="-1.318949e-08">
+	<stop  offset="0" style="stop-color:#E6E6E6"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path id="notes-label" fill="url(#notes-label_1_)" d="M798.7822,1010H211.2305C94.7676,1010,0,915.2451,0,798.7988v-587.581
+	C0,94.7549,94.7676,0,211.2305,0h587.5516C915.2539,0,1010,94.7549,1010,211.2178v587.581
+	C1010,915.2451,915.2539,1010,798.7822,1010z"/>
+<g id="notes-notes">
+	<g>
+		<rect x="170.7402" y="459.3506" fill="#B2B2B2" width="688.7139" height="2.7905"/>
+		<rect x="170.7402" y="555.0078" fill="#B2B2B2" width="688.7139" height="2.7813"/>
+		<rect x="170.7402" y="650.6816" fill="#B2B2B2" width="688.7139" height="2.7813"/>
+		<rect x="170.7402" y="746.3379" fill="#B2B2B2" width="688.7139" height="2.7988"/>
+		<rect x="170.7402" y="841.9951" fill="#B2B2B2" width="688.7139" height="2.7988"/>
+	</g>
+	<g>
+		<g opacity="0.2">
+			<path fill="#1D1D1B" d="M1010,231.4178c0-41.1729-12.0215-79.4966-32.4727-112.0117C935.916,59.594,866.7207,20.2,788.7422,20.2
+				H221.2666c-77.9624,0-147.1357,39.3687-188.7559,99.147C12.0298,151.8787,0,190.2278,0,231.4178v84.0908h1010V231.4178z"/>
+		</g>
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="505" y1="295.3086" x2="505" y2="-1.273929e-08">
+				<stop  offset="0" style="stop-color:#FFA400"/>
+				<stop  offset="1" style="stop-color:#FFCF00"/>
+			</linearGradient>
+			<path fill="url(#SVGID_1_)" d="M1010,211.2178c0-41.1729-12.0215-79.4966-32.4727-112.0117C935.916,39.394,866.7207,0,788.7422,0
+				H221.2666C143.3042,0,74.1309,39.3687,32.5107,99.147C12.0298,131.6787,0,170.0278,0,211.2178v84.0908h1010V211.2178z"/>
+		</g>
+	</g>
+</g>
+</svg>

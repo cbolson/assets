@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Messages" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1010 1010" enable-background="new 0 0 1010 1010" xml:space="preserve">
+<linearGradient id="messages-back_1_" gradientUnits="userSpaceOnUse" x1="505" y1="1010" x2="505" y2="-1.257285e-08">
+	<stop  offset="0" style="stop-color:#3AAA35"/>
+	<stop  offset="1" style="stop-color:#6CDE66"/>
+</linearGradient>
+<path id="messages-back" fill="url(#messages-back_1_)" d="M1010,783.4561C1010,908.0537,908.7705,1010,785.0664,1010H224.9502
+	C101.2124,1010,0,908.0537,0,783.4561V226.5435C0,101.9414,101.2124,0,224.9502,0h560.1162C908.7705,0,1010,101.9414,1010,226.5435
+	V783.4561z"/>
+<g id="messages-messages">
+	<path fill="#FFFFFF" d="M505,272.4961c-139.4517,0-252.5,93.6846-252.5,209.1777c0,58.1348,28.6455,110.6875,74.8262,148.6065
+		l-15.8574,107.2236l95.8427-62.8975c30.0366,10.4444,63.0659,16.2452,97.6885,16.2452c139.4688,0,252.5-93.626,252.5-209.1778
+		C757.5,366.1807,644.4688,272.4961,505,272.4961z"/>
+</g>
+</svg>

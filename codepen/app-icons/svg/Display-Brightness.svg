@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Display-Brightness" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1010 1010" enable-background="new 0 0 1010 1010" xml:space="preserve">
+<linearGradient id="display-brightness-back_1_" gradientUnits="userSpaceOnUse" x1="505" y1="1010" x2="505" y2="-1.257285e-08">
+	<stop  offset="0" style="stop-color:#007AFF"/>
+	<stop  offset="1" style="stop-color:#02ADEF"/>
+</linearGradient>
+<path id="display-brightness-back" fill="url(#display-brightness-back_1_)" d="M1010,783.4561
+	C1010,908.0625,908.7705,1010,785.0664,1010H224.9502C101.2124,1010,0,908.0625,0,783.4561V226.5435
+	C0,101.9458,101.2124,0,224.9502,0h560.1162C908.7705,0,1010,101.9458,1010,226.5435V783.4561z"/>
+<g id="display-brightness-display-brightness">
+	<path fill="#FFFFFF" d="M274.5703,386.3286L175.8066,648.625h36.4185l24.7085-67.7285H348.667l22.2978,67.7285h38.9219
+		l-95.1972-262.2964H274.5703z M251.1514,546.0635l41.9609-120.8213l40.3804,120.8213H251.1514z"/>
+	<path fill="#FFFFFF" d="M684.5957,298.9082h-63.04L466.3438,711.0918h57.2363l44.6972-130.1953H730.001l43.0273,130.1953h61.169
+		L684.5957,298.9082z M650.6895,360.0605l57.5273,168.5948H590.9199L650.6895,360.0605z"/>
+</g>
+</svg>
