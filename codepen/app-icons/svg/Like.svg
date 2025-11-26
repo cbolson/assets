@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Like" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1010 1010" enable-background="new 0 0 1010 1010" xml:space="preserve">
+<linearGradient id="like-back_1_" gradientUnits="userSpaceOnUse" x1="505" y1="1010" x2="505" y2="-1.257285e-08">
+	<stop  offset="0" style="stop-color:#E6E6E6"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path id="like-back" fill="url(#like-back_1_)" d="M1010,783.4561C1010,908.0625,908.7705,1010,785.0664,1010H224.9502
+	C101.2124,1010,0,908.0625,0,783.4561V226.5435C0,101.9375,101.2124,0,224.9502,0h560.1162C908.7705,0,1010,101.9375,1010,226.5435
+	V783.4561z"/>
+<g id="like-like">
+	<linearGradient id="like-icon_1_" gradientUnits="userSpaceOnUse" x1="505.0005" y1="763.1309" x2="505.0005" y2="246.835">
+		<stop  offset="0" style="stop-color:#FF2C55"/>
+		<stop  offset="1" style="stop-color:#FF4166"/>
+	</linearGradient>
+	<path id="like-icon" fill="url(#like-icon_1_)" d="M799.584,426.0601c-7.5957,89.1909-80.7783,199.1538-294.626,337.0707
+		C291.127,625.2139,217.9531,515.251,210.417,426.0601v-30.981c8.0928-93.1489,74.792-141.7993,132.564-146.9209
+		c9.4755-0.9189,18.3354-1.3232,26.6562-1.3232c66.6655,0,98.7002,65.7636,135.3208,105.9585
+		c36.6377-40.1949,68.6045-105.9585,135.3125-105.9585c8.3203,0,17.2568,0.4043,26.6895,1.3232
+		c57.7723,5.1216,124.3535,53.772,132.624,146.9209V426.0601z"/>
+</g>
+</svg>

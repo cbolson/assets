@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="YouTube" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1010 1010" enable-background="new 0 0 1010 1010" xml:space="preserve">
+<linearGradient id="youtube-back_1_" gradientUnits="userSpaceOnUse" x1="505" y1="1010" x2="505" y2="-1.257285e-08">
+	<stop  offset="0" style="stop-color:#E6E6E6"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path id="youtube-back" fill="url(#youtube-back_1_)" d="M1010,783.4561C1010,908.0625,908.7705,1010,785.0664,1010H224.9502
+	C101.2124,1010,0,908.0625,0,783.4561V226.5435C0,101.9414,101.2124,0,224.9502,0h560.1162C908.7705,0,1010,101.9414,1010,226.5435
+	V783.4561z"/>
+<g id="youtube-youtube">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="505.0005" y1="707.7705" x2="505.0005" y2="329.0205">
+		<stop  offset="0" style="stop-color:#FF2C55"/>
+		<stop  offset="1" style="stop-color:#FF4166"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M799.584,665.6875c0,23.1406-18.9434,42.083-42.084,42.083h-505
+		c-23.1494,0-42.083-18.9424-42.083-42.083v-294.584c0-23.1445,18.9336-42.083,42.083-42.083h505
+		c23.1406,0,42.084,18.9385,42.084,42.083V665.6875z"/>
+	<polygon fill="#FFFFFF" points="530.2402,559.8887 457.3613,601.9639 457.3613,517.8057 457.3613,433.6304 530.2402,475.7139 
+		603.1357,517.8057 	"/>
+</g>
+</svg>

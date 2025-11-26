@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1010 1010" enable-background="new 0 0 1010 1010" xml:space="preserve">
+<linearGradient id="play-back_1_" gradientUnits="userSpaceOnUse" x1="505" y1="1010" x2="505" y2="-1.257285e-08">
+	<stop  offset="0" style="stop-color:#7A6BFF"/>
+	<stop  offset="1" style="stop-color:#FC61FF"/>
+</linearGradient>
+<path id="play-back" fill="url(#play-back_1_)" d="M1010,783.4561C1010,908.0537,908.7705,1010,785.0664,1010H224.9502
+	C101.2124,1010,0,908.0537,0,783.4561V226.5435C0,101.9458,101.2124,0,224.9502,0h560.1162C908.7705,0,1010,101.9458,1010,226.5435
+	V783.4561z"/>
+<g id="play-play">
+	<path id="play-play_1_" fill="#FFFFFF" d="M505.0215,252.5C365.5654,252.5,252.5,365.5566,252.5,505.0166
+		C252.5,644.4512,365.5654,757.5,505.0215,757.5C644.4512,757.5,757.5,644.4512,757.5,505.0166
+		C757.5,365.5566,644.4512,252.5,505.0215,252.5 M545.2461,584.2432l-137.2056,79.2187V505.0166V346.5469l137.2056,79.2348
+		l137.2344,79.2349L545.2461,584.2432z"/>
+</g>
+</svg>
